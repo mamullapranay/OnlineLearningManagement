@@ -1,0 +1,29 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kajal-7/E-Kaksha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kajal-7/E-Kaksha/issues"
+  },
+  "homepage": "https://github.com/Kajal-7/E-Kaksha#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "np": "^10.0.7",
+    "npm": "^8.5.5",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1"
+  }
+}
