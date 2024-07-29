@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kajal-7/E-Kaksha.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kajal-7/E-Kaksha/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Kajal-7/E-Kaksha#readme",
+  "homepage": "",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.3",
